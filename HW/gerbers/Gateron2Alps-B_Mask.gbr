@@ -1,0 +1,33 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.6*%
+%TF.CreationDate,2025-02-08T19:38:13+00:00*%
+%TF.ProjectId,Gateron2Alps,47617465-726f-46e3-9241-6c70732e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.6) date 2025-02-08 19:38:13*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,1.700000*%
+%ADD11C,5.250000*%
+%ADD12C,2.500000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,REF\u002A\u002A*%
+X118259600Y-89018600D03*
+%TD*%
+D11*
+%TO.C,REF\u002A\u002A*%
+X120600000Y-86250000D03*
+D12*
+X125000000Y-81550000D03*
+X118000000Y-80500000D03*
+%TD*%
+D10*
+%TO.C,REF\u002A\u002A*%
+X117470000Y-84590000D03*
+%TD*%
+M02*
