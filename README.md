@@ -1,6 +1,9 @@
 # ALPS2GATERON
 A modern replacement kit for the Alps SKCC Tall using Gateron Low Profile 2.0 Switch (KS-33)
 
+![Example Image](https://github.com/andreacampanella/ALPS2GATERON/blob/main/vg3m6wda15ke1.jpeg)
+
+
 The setup it's pretty easy, you have the Gateron switch sandwiched between the PCB and the 3D printed stem adapter.
 
 # Manufacture
